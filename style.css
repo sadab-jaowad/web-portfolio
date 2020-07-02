@@ -70,3 +70,6 @@ section{
     border-image:linear-gradient( #c99cb6, #6b192e);
     border-image-slice:1;
 }
+.icon-style{
+    height: 5px;
+}
